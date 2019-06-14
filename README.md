@@ -6,7 +6,7 @@ Projeto para realização de um sistemas que utiliza a biblioteca pthreads para 
 
 ## Execução
 
-Necessário fazer a instalação do X11 disponível no site [XQuartz](https://www.xquartz.org/), e determinar os caminhos dos diretórios específicos ao executar o mando de build do projeto.
+Necessário fazer a instalação do X11 disponível no site [XQuartz](https://www.xquartz.org/), e determinar os caminhos dos diretórios específicos ao executar o comando de build do projeto.
 
 ```
 $ git clone https://github.com/savannadenega/pthreads-mandelbrot-fractal
