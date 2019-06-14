@@ -1,12 +1,12 @@
 # Projeto pthreads-mandelbrot-fractal
 
-Projeto para realização de um sistemas que utiliza a biblioteca pthreads para construção da estrutura do algoritmo de Fractal Mandelbrot[https://pt.wikipedia.org/wiki/Conjunto_de_Mandelbrot], para a disciplina de Processamento de Alto Desepenho - Unisinos/2019.
+Projeto para realização de um sistemas que utiliza a biblioteca pthreads para construção da estrutura do algoritmo de [Fractal Mandelbrot](https://pt.wikipedia.org/wiki/Conjunto_de_Mandelbrot), para a disciplina de Processamento de Alto Desepenho - Unisinos/2019.
 
-![pthreads-mandelbrot-fractal][images/pthreads-mandelbrot-fractal.png]
+![pthreads-mandelbrot-fractal](images/pthreads-mandelbrot-fractal.png)
 
 ## Execução
 
-Necessário fazer a instalação do X11 disponível no site https://www.xquartz.org/[https://www.xquartz.org/], e determinar os caminhos dos diretórios específicos no buil do projeto.
+Necessário fazer a instalação do X11 disponível no site [XQuartz](https://www.xquartz.org/), e determinar os caminhos dos diretórios específicos no buil do projeto.
 
 ```
 git clone https://github.com/savannadenega/pthreads-mandelbrot-fractal
