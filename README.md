@@ -9,10 +9,10 @@ Projeto para realização de um sistemas que utiliza a biblioteca pthreads para 
 Necessário fazer a instalação do X11 disponível no site [XQuartz](https://www.xquartz.org/), e determinar os caminhos dos diretórios específicos no buil do projeto.
 
 ```
-git clone https://github.com/savannadenega/pthreads-mandelbrot-fractal
-cd pthreads-mandelbrot-fractal/mandelbrot-fractal
-gcc main.c -o main -I/opt/X11/include -I/opt/X11/include/X11 -L/opt/X11/lib -L/opt/X11/lib/X11 -lX11
-./main
+$ git clone https://github.com/savannadenega/pthreads-mandelbrot-fractal
+$ cd pthreads-mandelbrot-fractal/mandelbrot-fractal
+$ gcc main.c -o main -I/opt/X11/include -I/opt/X11/include/X11 -L/opt/X11/lib -L/opt/X11/lib/X11 -lX11
+$ ./main
 ```
 
 ## Navegação na aplicação
